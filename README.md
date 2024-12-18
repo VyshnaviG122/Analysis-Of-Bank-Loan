@@ -44,3 +44,17 @@ The bank loan analysis dataset comprises essential fields such as Loan ID, Addre
 
 Conclusion:
 The Details Dashboard streamlines access to critical loan data, facilitating informed decision-making, enhancing operational efficiency, optimizing lending strategies, mitigating risks, and maximizing overall performance.
+
+# Dashboard Images:
+
+Summary Dashboard
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/4b8b2e37-e3e0-4923-b35b-51bf740636b6" />
+
+Overview Dashboard
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/859a4e86-bede-4a1a-a7f6-20e28fd67fb0" />
+
+Details Dashboard
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/519021b2-aeca-4ff9-9440-4133f8aab29d" />
+
+
+
