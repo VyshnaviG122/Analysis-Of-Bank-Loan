@@ -24,10 +24,15 @@ Loan Status Grid View: Gain a comprehensive overview of lending operations and m
 
 # Dashboard 2: Overview
 Monthly Trends by Issue Date (Line Chart): Identify seasonality and long-term trends in lending activities.
+
 Regional Analysis by State (Filled Map): Identify regions with significant lending activity and assess regional disparities.
+
 Loan Term Analysis (Donut Chart): Understand the distribution of loans across various term lengths.
+
 Employee Length Analysis (Bar Chart): Assess how lending metrics are distributed among borrowers with different employment lengths.
+
 Loan Purpose Breakdown (Bar Chart): Provide a visual breakdown of loan metrics based on stated purposes of loans.
+
 Home Ownership Analysis (Tree Map): View how home ownership impacts loan applications and disbursements hierarchically.
 
 # Dashboard 3: Details
